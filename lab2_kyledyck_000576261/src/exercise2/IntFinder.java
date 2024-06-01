@@ -16,7 +16,7 @@ public class IntFinder<E extends Comparable> {
         return size;
     }
 
-    public E [] getData() {
+    public E[] getData() {
         return data;
     }
 
