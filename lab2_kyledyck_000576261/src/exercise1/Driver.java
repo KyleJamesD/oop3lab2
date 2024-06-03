@@ -2,10 +2,17 @@ package exercise1;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+@author  Kyle
+*/
 public class Driver
 {
 
+    /**
+     * 
+     * @param args 
+     * This function is the entry point 
+     */
 	public static void main( String[] args )
 	{
 
